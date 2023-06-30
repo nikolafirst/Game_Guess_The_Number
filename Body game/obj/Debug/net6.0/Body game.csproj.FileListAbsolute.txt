@@ -1,0 +1,15 @@
+C:\Users\karasev.n\Desktop\Project\Game Guess the number\Body game\bin\Debug\net6.0\Body game.exe
+C:\Users\karasev.n\Desktop\Project\Game Guess the number\Body game\bin\Debug\net6.0\Body game.deps.json
+C:\Users\karasev.n\Desktop\Project\Game Guess the number\Body game\bin\Debug\net6.0\Body game.runtimeconfig.json
+C:\Users\karasev.n\Desktop\Project\Game Guess the number\Body game\bin\Debug\net6.0\Body game.dll
+C:\Users\karasev.n\Desktop\Project\Game Guess the number\Body game\bin\Debug\net6.0\Body game.pdb
+C:\Users\karasev.n\Desktop\Project\Game Guess the number\Body game\obj\Debug\net6.0\Body game.csproj.AssemblyReference.cache
+C:\Users\karasev.n\Desktop\Project\Game Guess the number\Body game\obj\Debug\net6.0\Body game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karasev.n\Desktop\Project\Game Guess the number\Body game\obj\Debug\net6.0\Body game.AssemblyInfoInputs.cache
+C:\Users\karasev.n\Desktop\Project\Game Guess the number\Body game\obj\Debug\net6.0\Body game.AssemblyInfo.cs
+C:\Users\karasev.n\Desktop\Project\Game Guess the number\Body game\obj\Debug\net6.0\Body game.csproj.CoreCompileInputs.cache
+C:\Users\karasev.n\Desktop\Project\Game Guess the number\Body game\obj\Debug\net6.0\Body game.dll
+C:\Users\karasev.n\Desktop\Project\Game Guess the number\Body game\obj\Debug\net6.0\refint\Body game.dll
+C:\Users\karasev.n\Desktop\Project\Game Guess the number\Body game\obj\Debug\net6.0\Body game.pdb
+C:\Users\karasev.n\Desktop\Project\Game Guess the number\Body game\obj\Debug\net6.0\Body game.genruntimeconfig.cache
+C:\Users\karasev.n\Desktop\Project\Game Guess the number\Body game\obj\Debug\net6.0\ref\Body game.dll
