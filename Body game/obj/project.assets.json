@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karasev.n\\Desktop\\Project\\Game Guess the number\\Body game\\Body game.csproj",
+      "projectUniqueName": "c:\\Users\\karasev.n\\Desktop\\Project\\Game Guess the number\\Body game\\Body game.csproj",
       "projectName": "Body game",
-      "projectPath": "C:\\Users\\karasev.n\\Desktop\\Project\\Game Guess the number\\Body game\\Body game.csproj",
+      "projectPath": "c:\\Users\\karasev.n\\Desktop\\Project\\Game Guess the number\\Body game\\Body game.csproj",
       "packagesPath": "C:\\Users\\karasev.n\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karasev.n\\Desktop\\Project\\Game Guess the number\\Body game\\obj\\",
+      "outputPath": "c:\\Users\\karasev.n\\Desktop\\Project\\Game Guess the number\\Body game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karasev.n\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
       }
     }
   }
