@@ -6,21 +6,23 @@ using System.Runtime.CompilerServices;
 
 Console.Clear();
 
-Console.WriteLine("Меня зовут Антошка, я являюсь ИИ.");
-Console.WriteLine("Тебя как зовут?: ");
+Console.WriteLine("Привет, я ИИ");
+
+Console.WriteLine("Как тебя зовут?: ");
+
 string Name = Console.ReadLine();
-Console.WriteLine($"Привет {Name}");
+
+Console.WriteLine($"Привет \t{Name}");
+
 Console.WriteLine();
 
-Console.WriteLine($"{Name} , я хотел бы поиграть с тобой  в занимательную игру, ты согласен? Для продолжения нажми Enter, для выхода нажми 'q и Enter'");
-
-// Здесь должен обрабатываться запрос на ввод Да/Нет, но этого мы делать не будем. При нажатии "ENTER" игра продолжается
+Console.WriteLine($"{Name} , я хотел бы поиграть с тобой  в занимательную игру, ты согласен? (Для продолжения нажми Enter)");
 
 string positiveAnsver = Console.ReadLine();
 
-
-Console.WriteLine("Отлично, давай начнем!!! Я буду загадывать число от 1 до 5, а ты отгадывай. Есть одно НО, у тебя три попытки. Поехали :)");
-
+Console.WriteLine("Отлично, давай начнем!!! У тебя есть три попытки :)");
+Console.WriteLine("");
+Console.WriteLine("Понали!!!");
 
 
 int user_Step = 3;
@@ -29,7 +31,7 @@ while (user_Step > 0)
 {
     Console.WriteLine("");  // Число игрока
     int numA = int.Parse(Console.ReadLine());
-    Random rnd = new Random();   // Загаданное число Алешкой
+    Random rnd = new Random();   // Загаданное число ИИ
     int numB = rnd.Next(1, 10);
     Console.WriteLine("Твое число: " + numA);
 
@@ -40,7 +42,7 @@ while (user_Step > 0)
     }
     else
     {
-        Console.WriteLine("Не угадал, попробуй еще раз");
+        Console.WriteLine("Нет, не угадал");
         user_Step--;  // После каждой неудачной  попытки минус одна попытка
     }
 
